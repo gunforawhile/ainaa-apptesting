@@ -1,13 +1,13 @@
-# 📦 Streamlit App Starter Kit 
+# Ainaa's App Testing 
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
+An app that is used for testing hehe
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ainaa-apptesting.streamlit.app/)
 
 ## GitHub Codespaces
 
